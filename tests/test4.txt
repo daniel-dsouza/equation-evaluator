@@ -1,0 +1,4 @@
+hobbed = bacon + counter
+bacon = counter + solid
+solid = 5
+counter = 50

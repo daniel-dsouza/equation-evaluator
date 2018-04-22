@@ -1,0 +1,10 @@
+brother = 157
+dad = 70
+family = 471
+grandma = 36
+grandpa = 34
+mom = 87
+nana = 42
+sibling = 314
+sister = 157
+tata = 45

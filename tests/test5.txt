@@ -1,0 +1,4 @@
+dangerous =     cookie + chocolate
+chocolate = consume
+cookie = chocolate
+consume = 3

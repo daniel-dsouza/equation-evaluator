@@ -1,0 +1,4 @@
+bacon = 55
+counter = 50
+hobbed = 105
+solid = 5

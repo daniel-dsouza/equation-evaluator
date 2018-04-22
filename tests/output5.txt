@@ -1,0 +1,4 @@
+chocolate = 3
+consume = 3
+cookie = 3
+dangerous = 6

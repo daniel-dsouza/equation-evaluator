@@ -1,0 +1,10 @@
+sibling = brother + sister
+family = mom + dad + brother + sister
+mom = nana + tata
+dad = grandma + grandpa
+brother = mom + dad
+sister = dad + mom
+tata = nana + 3
+grandma = grandpa + 2
+nana = 42
+grandpa = 34
